@@ -17,6 +17,10 @@ The system reads vehicle data from the Kaggle Automobile dataset and generates u
 
 ---
 
+## Video link
+
+https://youtu.be/5IBykv_3Q6o
+
 ## Project Requirements Met
 
 ✅ Uses Processing and Pure Data  
